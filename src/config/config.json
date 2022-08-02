@@ -1,0 +1,24 @@
+{
+  "algorithm": "ethash",
+  "nodes": [
+    {
+      "name": "rpcnode",
+      "client": "besu",
+      "rpcUrl": "http://54.85.90.177:8545",
+      "privateTxUrl": ""
+    },
+    {
+      "name": "rpcnode1",
+      "client": "besu",
+      "rpcUrl": "http://54.85.90.177:30304",
+      "privateTxUrl": ""
+    },
+    {
+      "name": "rpcnode2",
+      "client": "besu",
+      "rpcUrl": "http://54.85.90.177:30305",
+      "privateTxUrl": ""
+    }
+    
+  ]
+}
